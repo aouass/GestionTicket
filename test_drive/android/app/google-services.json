@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780019824315",
+    "project_id": "gestion-de-tickets-f3be8",
+    "storage_bucket": "gestion-de-tickets-f3be8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780019824315:android:2c6f0c7130fe6d64045b9e",
+        "android_client_info": {
+          "package_name": "com.example.test_drive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoJeT5kxORmIeWl5TtH6jQSw2ffG9Lty4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
